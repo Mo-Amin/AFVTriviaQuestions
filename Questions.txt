@@ -25,9 +25,9 @@
         },
         {
             "Actual_Question": "Who won 2021 finals?",
-            "Correct_Answer": "Blazers",
+            "Correct_Answer": "Bucks",
             "Wrong_Answer1": "Raptors",
-            "Wrong_Answer2": "Bucks",
+            "Wrong_Answer2": "Blazers",
             "Wrong_Answer3": "Suns"
         }
     ]
