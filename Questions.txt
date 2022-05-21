@@ -15,76 +15,7 @@
             "Wrong_Answer2": "7",
             "Wrong_Answer3": "8"
         },
-        {
-            "Actual_Question": "How many tomatos you have?",
-            "Correct_Answer": "5",
-            "Wrong_Answer1": "6",
-            "Wrong_Answer2": "7",
-            "Wrong_Answer3": "8"
-        },
-        {
-            "Actual_Question": "How many tomatos you have?",
-            "Correct_Answer": "5",
-            "Wrong_Answer1": "6",
-            "Wrong_Answer2": "7",
-            "Wrong_Answer3": "8"
-        },
-        {
-            "Actual_Question": "How many tomatos you have?",
-            "Correct_Answer": "5",
-            "Wrong_Answer1": "6",
-            "Wrong_Answer2": "7",
-            "Wrong_Answer3": "8"
-        },
-        {
-            "Actual_Question": "How many tomatos you have?",
-            "Correct_Answer": "5",
-            "Wrong_Answer1": "6",
-            "Wrong_Answer2": "7",
-            "Wrong_Answer3": "8"
-        },
-        {
-            "Actual_Question": "How many tomatos you have?",
-            "Correct_Answer": "5",
-            "Wrong_Answer1": "6",
-            "Wrong_Answer2": "7",
-            "Wrong_Answer3": "8"
-        },
-        {
-            "Actual_Question": "How many tomatos you have?",
-            "Correct_Answer": "5",
-            "Wrong_Answer1": "6",
-            "Wrong_Answer2": "7",
-            "Wrong_Answer3": "8"
-        },
-        {
-            "Actual_Question": "How many tomatos you have?",
-            "Correct_Answer": "5",
-            "Wrong_Answer1": "6",
-            "Wrong_Answer2": "7",
-            "Wrong_Answer3": "8"
-        },
-        {
-            "Actual_Question": "How many tomatos you have?",
-            "Correct_Answer": "5",
-            "Wrong_Answer1": "6",
-            "Wrong_Answer2": "7",
-            "Wrong_Answer3": "8"
-        },
-        {
-            "Actual_Question": "How many tomatos you have?",
-            "Correct_Answer": "5",
-            "Wrong_Answer1": "6",
-            "Wrong_Answer2": "7",
-            "Wrong_Answer3": "8"
-        },
-        {
-            "Actual_Question": "How many tomatos you have?",
-            "Correct_Answer": "5",
-            "Wrong_Answer1": "6",
-            "Wrong_Answer2": "7",
-            "Wrong_Answer3": "8"
-        },
+
         {
             "Actual_Question": "How many tomatos you have?",
             "Correct_Answer": "5",
@@ -92,7 +23,5 @@
             "Wrong_Answer2": "7",
             "Wrong_Answer3": "8"
         }
-        
-
     ]
 }
