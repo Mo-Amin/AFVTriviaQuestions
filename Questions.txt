@@ -57,6 +57,6 @@
             "Wrong_Answer1": "Raptors",
             "Wrong_Answer2": "Blazers",
             "Wrong_Answer3": "Suns"
-        },
+        }
     ]
 }
