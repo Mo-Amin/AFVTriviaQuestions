@@ -8,28 +8,7 @@
             "Wrong_Answer3": "Apples"
         },
 
-        {
-            "Actual_Question": "How many tomatos you have?",
-            "Correct_Answer": "5",
-            "Wrong_Answer1": "6",
-            "Wrong_Answer2": "7",
-            "Wrong_Answer3": "8"
-        },
 
-        {
-            "Actual_Question": "How you been?",
-            "Correct_Answer": "idk",
-            "Wrong_Answer1": "ok",
-            "Wrong_Answer2": "alright",
-            "Wrong_Answer3": "Great"
-        },
-        {
-            "Actual_Question": "Name is Mo?",
-            "Correct_Answer": "idk",
-            "Wrong_Answer1": "ok",
-            "Wrong_Answer2": "alright",
-            "Wrong_Answer3": "Great"
-        },
         {
             "Actual_Question": "Who won 2021 finals?",
             "Correct_Answer": "Bucks",
