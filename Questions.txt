@@ -7,13 +7,6 @@
             "Wrong_Answer2": "Wheat",
             "Wrong_Answer3": "Apples"
         },
-        {
-            "Actual_Question": "Whats up?",
-            "Correct_Answer": "Corn",
-            "Wrong_Answer1": "Potatoes",
-            "Wrong_Answer2": "Wheat",
-            "Wrong_Answer3": "Apples"
-        },
 
 
         {
